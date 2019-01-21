@@ -1,6 +1,6 @@
 # pyDo
 
-pyDo is a todo app based in this project https://teamtreehouse.com/community/todo-list-app-in-python
+pyDo is a "to do" app based in this project https://teamtreehouse.com/community/todo-list-app-in-python
 
 ## Install
 Clone or download this project and run:
